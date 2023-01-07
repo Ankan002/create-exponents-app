@@ -1,0 +1,9 @@
+{
+  "name": "create-exponents-app",
+  "version": "0.0.1",
+  "description": "A simple Command Line tool to generate project boilerprate.",
+  "main": "index.js",
+  "repository": "https://github.com/Ankan002/create-exponents-app.git",
+  "author": "Exponents",
+  "license": "MIT"
+}
